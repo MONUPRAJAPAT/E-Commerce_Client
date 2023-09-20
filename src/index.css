@@ -1,0 +1,19 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-brown , .bg-brown {
+    background:linear-gradient(45deg,brown,sandybrown);
+}
+.text-brown{
+    color: sandybrown;
+}
+.bg-brown-single{
+    background-color: #f6bcac ;
+}
+.bg-black{
+    background-color: #161618;
+}
+.bg-card-background{
+    background-color: #daeacc ;
+}

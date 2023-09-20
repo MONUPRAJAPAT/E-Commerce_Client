@@ -1,0 +1,9 @@
+.landing-div{
+    background: black url("assets/img/homeage 1.jpg") center scroll no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.wrapper{
+    height: inherit;
+    background-color: rgba(0,0,0,0.8);
+}
